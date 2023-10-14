@@ -1,0 +1,12 @@
+{
+  "name": "race-planner",
+  "version": "1.0.0",
+  "description": "Plan your running race calendar.",
+  "main": "index.js",
+  "scripts": {
+    "build": "",
+    "dev": ""
+  },
+  "author": "Camdyn Rasque",
+  "license": "ISC"
+}
